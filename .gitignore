@@ -1,0 +1,32 @@
+# IntelliJ IDEA related
+.idea/
+*.iml
+*.iws
+
+# Build and temp directories
+dist/
+build/
+out/
+
+# NodeJS related
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Solidity related
+build/contracts/
+*.solc-output.json
+
+# OS related
+.DS_Store
+*.log
+*.swp
+*.swo
+*.tmp
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Other
+.env
